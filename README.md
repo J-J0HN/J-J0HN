@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on ClotheLine (website repo [public]) with a few collaborators, as well as a database driven full functional commerce mobile app<br>🤝 I’m looking for help with summer internships (UK), as well as Data Science programming<br>🌱 Learning Android Studio for mobile applications, due to finish module at end of May 2023
+🔭 Currently working on my personal portfolio website<br>🤝 I’m looking for help with Java programming<br>🌱 Learning Cyber Security
 
 
 ## 🌐 Socials:
