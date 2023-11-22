@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Currently working on my personal portfolio website<br>🤝 I’m looking for help with Java programming<br>🌱 Learning Cyber Security
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.joyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j0yalj0hn) 
 
