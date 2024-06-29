@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently learning Rust.<br><br>👯 I’m looking to collaborate on developing innovative mobile/web applications, and on projects that involve creating seamless user experiences through the combination of software engineering and design principles.<br><br>🤝 I’m looking for help with data analytics<br><br><br>
+<br>🔭 Currently learning Rust.<br><br>👯 I’m looking to collaborate on developing innovative web applications, apps, software, or machine learning solutions<br><br>🤝 I’m looking for help with data analytics<br><br><br>
 
 
 ## 🌐 Socials:
