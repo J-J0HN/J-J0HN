@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I'm currently learning React<br><br>👯 I’m looking to collaborate on developing innovative web applications, apps, software, or machine learning solutions<br><br>🤝 I’m looking to expand my network<br><br><br>
+<br>🔭 I'm currently learning Rust<br><br>👯 I’m looking to collaborate on developing web applications, apps, software, or machine learning solutions<br><br>🤝 I’m looking to expand my network, feel free to follow me!<br><br><br>
 
 
 ## 🌐 Socials:
